@@ -1,0 +1,12 @@
+nav {
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    float: left;
+    margin-left: 30px
+}
